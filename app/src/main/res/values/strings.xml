@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="welcome_to">Welcome to city</string>
+    <string name="city_domzale">Domžale\nSlovenia</string>
+    <string name="start_tour">Start tour</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="restaurants">Restaurant</string>
+    <string name="parks">Parks</string>
+    <string name="castles">Castles</string>
+    <string name="caves">Caves</string>
+
+    <!-- Restaurants titles and locations -->
+    <string name="resturatn_park">Restavracija Park</string>
+    <string name="resturatn_park_location">Kopališka cesta 3, 1230 Domžale</string>
+
+    <string name="resturant_pristan">Restavracija Pristan</string>
+    <string name="resturant_pristan_location">Šaranovičeva cesta 18, 1230 Domžale</string>
+
+    <string name="resturant_zajc">Gostilna Zajc</string>
+    <string name="resturant_zajc_location">Mala Loka 6, 1230 Domžale</string>
+
+    <string name="resturant_adam">Pivnica Adam Ravbar</string>
+    <string name="resturant_adam_location">Perkova ulica 17, 1230 Domžale</string>
+
+    <!-- Castles titles and locations -->
+    <string name="castle_krumperk">Castle Krumperk</string>
+    <string name="castle_krumperk_location">Gorjuša 19</string>
+
+    <string name="castle_crnelo">Castle Črnelo</string>
+    <string name="castle_crnelo_location">Turnše 39, 1233 Dob</string>
+
+    <string name="castle_cesenik">Castle Češenik</string>
+    <string name="castle_cesenik_location">Češenik, 1233 Dob</string>
+
+    <!-- Parks titles and locations -->
+    <string name="park_cesminov">Češminov park</string>
+    <string name="park_cesminov_location">City center park</string>
+
+    <string name="park_obcinski">Občinski park</string>
+    <string name="park_obcinski_location">Park at city house</string>
+
+    <string name="park_88lip">88 lip</string>
+    <string name="park_88lip_location">The oldest park at Domžale</string>
+
+    <string name="park_sumberk">Šumberk</string>
+    <string name="park_sumberk_location"></string>
+
+
+    <!-- Caves titles and locations -->
+
+    <string name="cave_dolga">Dolga jama</string>
+    <string name="cave_dolga_location">Cave at park Šumberk</string>
+
+    <string name="cave_podreska">Podreška jama</string>
+    <string name="cave_podreska_location">Cave at park Šumberk</string>
+
+    <string name="cave_zelezna">Železna jama</string>
+    <string name="cave_zelezna_location">Cave near castle Krumperk</string>
+
+
+
+
+
+
+
+</resources>
